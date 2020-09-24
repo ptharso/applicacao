@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.applicacao.application",
+        "description": "Application",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#application-Display",
+        "navigationComponentName": "opensap.applicacao",
+        "intentSemanticObject": "application",
+        "intentAction": "Display",
+        "html5ApplicationName": "application",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "procurement"
+        ],
+        "contentPackages": [
+            "New_catalog"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Application",
+        "subtitle": "Sapui52",
+        "searchKeywords": "Application,Sapui52",
+        "displayIconUrl": "sap-icon://action-settings",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
